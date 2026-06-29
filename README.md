@@ -390,8 +390,8 @@ npm run dev
 
 # 👨‍💻 Author
 
-**Vikash Kushwaha**
+Himanshu Chaudhari
 
 B.Tech CSE (AI)
 
-Full Stack Developer | AI Enthusiast
+
